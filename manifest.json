@@ -1,0 +1,10 @@
+{
+  "name": "WealthOne",
+  "short_name": "WealthOne",
+  "description": "Consolidated portfolio dashboard — see all your investments in one place.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0E17",
+  "theme_color": "#6C63FF",
+  "icons": []
+}
