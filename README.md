@@ -1,4 +1,4 @@
-# WEB-application-
+# WEB-application
 # 🚀 WealthOne: All Your Investments, One Dashboard
 
 ## 🎯 Theme & Problem Statement
